@@ -1,0 +1,91 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Karhomatul Faqih Al Amin
+  given: Karhomatul Faqih Al
+  family: Amin
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+postnominals: '' # Example: PhD, MD
+status:
+  icon: ""  # Example: ☕️
+role: Data Engineer Learner
+bio: |
+  Data Engineer learner with a strong interest
+  in data pipelines, ETL processes, and scalable data systems. Currently
+  pursuing an undergraduate degree in Data Science, focuses on building
+  practical projects using Python, SQL, and modern data engineering tools.
+  My learning journey emphasizes hands-on implementation, reproducibility,
+  and aligning academic foundations with real-world data engineering needs.
+
+links:
+  - icon: at-symbol
+    url: mailto:karhomatulfakih@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/faqihalamin95
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/karhomatul-faqih-al-amin-2885ba321/
+
+
+interests:
+  - Python Programming
+  - SQL & Databases
+  - Pipelines & ETL
+  - Data Engineering
+
+education:
+  - degree: Data Science
+    institution: Indonesia Open University
+    start: 2025-09-01
+
+experience:
+  - role: ''
+    org: ''
+    start: ''
+    summary: |
+      ''
+    button:
+      text: ''
+      url: ''
+      icon: ''
+  - role: ''
+    org: ''
+    start: ''
+    end: ''
+    summary: |
+      ''
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: ''
+        level: 
+      - label: ''
+        level: 
+      - label: ''
+        level: 
+  - name: Research & Communication
+    items:
+      - label: ''
+        level: 
+      - label: ''
+        level: 
+      - label: ''
+        level: 
+
+languages:
+  - name: ''
+    level: 
+    label: ''
+  - name: ''
+    level: 
+    label: ''
+
+awards:
+  - title: ''
+    awarder: ''
+    date: ''
+    summary: ''
+    icon: ''
